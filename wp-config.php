@@ -20,22 +20,22 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'mystore');
+define('DB_NAME','cmagazine');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER','cmagazine');
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD','Ri6ild3!6-i4');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST','mysql5.gear.host');
 
 /** Database Charset to use in creating database tables. */
-define('DB_CHARSET', 'utf8mb4');
+define('DB_CHARSET','utf8mb4');
 
 /** The Database Collate type. Don't change this if in doubt. */
-define('DB_COLLATE', '');
+define('DB_COLLATE','');
 
 /**#@+
  * Authentication Unique Keys and Salts.
